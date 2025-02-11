@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/_uditbhardwaj" target="blank"><img src="https://img.shields.io/twitter/follow/_uditbhardwaj?logo=twitter&style=for-the-badge" alt="_uditbhardwaj" /></a> </p>
 
-- 🔭 I’m currently working on **Kiva**
+
 
 - 🌱 I’m currently learning **ML**
 
